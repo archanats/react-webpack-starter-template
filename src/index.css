@@ -1,0 +1,11 @@
+body {
+  margin: 50;
+  padding: 50;
+  background-color: lightslategrey;
+}
+
+div {
+  font-weight: 600;
+  color: whitesmoke;
+  text-transform: capitalize;
+}
